@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@android:drawable/arrow_up_float"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_return"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="@string/title_return" />
+
+
+</menu>
